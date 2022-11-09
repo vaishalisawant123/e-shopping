@@ -1,7 +1,6 @@
-import React from 'react'
+import React from "react";
 
 export const KhizarMain = () => {
-  return (
-    <div>KhizarMain</div>
-  )
-}
+  return;
+  <div>KhizarMain</div>;
+};

@@ -1,7 +1,6 @@
-import React from 'react'
+import React from "react";
 
 export const MohsinMain = () => {
-  return (
-    <div>MohsinMain</div>
-  )
-}
+  return;
+  <div>MohsinMain</div>;
+};

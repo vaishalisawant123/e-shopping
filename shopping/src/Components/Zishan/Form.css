@@ -1,0 +1,17 @@
+/* * { */
+    /* background-color: rgb(156, 138, 173); */
+/* } */
+.body {
+    text-align: center;
+    background:url('./eshopping-1.jpg') no-repeat;
+    height: 600px;
+    width: 100%;
+}
+
+.label {
+    display: block;
+    font-size: larger;
+    color: black;
+    padding: 5px;
+}
+

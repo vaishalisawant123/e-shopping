@@ -15,8 +15,12 @@
     "react": "^18.2.0",
     "react-bootstrap": "^2.6.0",
     "react-dom": "^18.2.0",
+<<<<<<< HEAD
+    "react-router-dom": "^6.4.2",
+=======
     "react-router": "^6.4.3",
     "react-router-dom": "^6.4.3",
+>>>>>>> 35bb6757c2800b20728c5fe16e2617165fc8856e
     "react-scripts": "5.0.1",
     "redux": "^4.2.0",
     "redux-devtools-extension": "^2.13.9",
