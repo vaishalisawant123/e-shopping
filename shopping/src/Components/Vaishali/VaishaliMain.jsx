@@ -1,7 +1,6 @@
-import React from 'react'
+import React from "react";
 
 export const VaishaliMain = () => {
-  return (
-    <div>VaishaliMain</div>
-  )
-}
+  return;
+  <div>VaishaliMain</div>;
+};
