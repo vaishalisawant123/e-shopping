@@ -11,9 +11,9 @@ function App() {
   return (
     <div className="App">
       <AtharMain />
+      <VaishaliMain />
       <AtiyaMain />
       <KhizarMain />
-      <VaishaliMain />
       <ZishanMain />
       <MohsinMain/>
     </div>
