@@ -1,7 +1,10 @@
 import React from 'react'
+import { Home } from './Home'
 
 export const VaishaliMain = () => {
   return (
-    <div>VaishaliMain</div>
+    <div>
+      <Home/>
+    </div>
   )
 }
